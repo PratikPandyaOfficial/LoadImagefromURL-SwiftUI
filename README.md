@@ -1,5 +1,5 @@
 # LoadImagefromURL-SwiftUI
-Download or Load image from URL with Success, Fail and Empty stats.
+Load image from URL with Success, Fail and Empty stats.
 
 import SwiftUI
 
